@@ -1,8 +1,8 @@
 # sesion-08a
 ## Apuntes 28 abr
-En esta clase aprendimos a trabajar con kicad. La clase inició con un tutorial detallado sobre la instalación correcta de la aplicación. Una vez instalado, aprendimos a gestionar un proyecto desde cero, creando un archivo nuevo (.kicad_sch). En esta interfaz, empezamos a plasmar de forma digital los diagramas que antes solo veíamos listos, conectando componentes mediante "cables" virtuales y etiquetas. Entender este flujo es vital, ya que un esquemático bien hecho es la base antes de pasar al diseño de la placa de circuito impreso (PCB).
+En esta clase aprendimos a trabajar con kicad. La clase inició con un tutorial detallado sobre la instalación correcta de la aplicación. Una vez instalado, aprendimos a gestionar un proyecto desde cero, creando un archivo nuevo (.kicad_sch). En esta interfaz, empezamos a plasmar de forma digital los diagramas que antes solo veíamos listos, conectando componentes mediante "cables" virtuales y etiquetas. Tener un esquemático bien hecho es la base antes de pasar al diseño de la placa de circuito impreso (PCB).
 
-imagen de los apuntes tomados en clases
+Imagen de los apuntes tomados en clases
 ![Apuntes](./imagenes/apuntes-28abr.jpg)
 
 Para movernos con fluidez en el editor de esquemáticos, utilizamos varios atajos de teclado que agilizan mucho el trabajo:

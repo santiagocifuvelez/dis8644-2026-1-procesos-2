@@ -4,6 +4,8 @@
  ![clock555](./imagenes/clock555.png).
 
  ![encargo10aclock](./imagenes/encargo10aclock.png).
+  ![placa555](./imagenes/placa555.png).
+
  ![graciasmisaa](./imagenes/graciasmisaa.png).
 
 

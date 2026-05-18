@@ -7,6 +7,13 @@
   ![placa555](./imagenes/placa555.png).
 
  ![graciasmisaa](./imagenes/graciasmisaa.png).
+ 
+  ![placa2](./imagenes/placa2.png).
+  
+   ![placa23d](./imagenes/placa23d.png).
+   
+   ![placazoom](./imagenes/placazoom.png).
+   
 
 
 

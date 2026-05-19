@@ -76,7 +76,7 @@ Después del esquemático, cada símbolo debe asociarse a una huella física.
 | Potenciómetro | `Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal` |
 | LED | `LED_THT:LED_D5.0mm` |
 
-## Paso 3 — PCB Editor
+## PCB Editor
 
 Tenemos que apretar el boton verde que aparece arriba a la derecha para poder asi poder pasar a la visualizar lo que es la PCB
 

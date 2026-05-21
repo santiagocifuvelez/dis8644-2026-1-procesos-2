@@ -9,3 +9,4 @@ durante el teloneo se nos dio la oportunidad de asistir a una charla de artistas
 
 ## clase 
 > la pizarra de misa fue una locura
+![imagenes](./imagenes/pizarramisa.jpeg)

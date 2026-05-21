@@ -16,6 +16,23 @@ Hoy comenzamos hablando sobre la charla que estuvo a cargo de Aaron llamada “G
 
 - Misaa
 
+1/4W 
+componente / valor / huella   →    R / 10K / resistencia 6.3 mml
+
+Pitch → distancia entre las patas.
+
+→ Encapsulado
+
+→ Chip:
+
+- DIP 16 – 7,62 mm – comp pads
+     
+- DIP 10 – 7,62 mm – comp pads
+- 
+✱ Si hago cambios en huellas, debo sí o sí actualizar porque me aparece.
+
+
+
 ### imagenes de proceso
 
 ### post-clase

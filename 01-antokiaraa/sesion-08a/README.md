@@ -36,3 +36,13 @@ de preferencia usar con mouse, en kicad > preferencias > ratón/panel táctil:
 ### resultado esquemático
 
 ![esquemático1](imagenes/miprimerkicad.png)
+
+### traspaso a archivo .pcb
+
+![vista pcb](imagenes/placapcb.png)
+
+### vista en 3D de la placa
+
+![visualización 3d](imagenes/placa3d.png)
+
+

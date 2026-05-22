@@ -66,4 +66,28 @@ Cuando un archivo ya está creado y guardado, se abre desde la extensión:
 **Listo, ahora que ya hicimos el contorno de nuestra placa, sigue definir los caminos de conexiones (las pistas):**
 ![img4](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img4.png)
 
+En Kicad, puedes escoger el tamaño de las pistas para que fluya más o menos energía por ciertos caminos.  
+Antes de continuar, quiero hacer mención de que hay posibilidades muy específicas con las que podemos trabajar: Por ejemplo, la capacidad mínima de pista, es de 0.10mm / 0.10mm (4 / 4 mil). En kicad se puede hacer de menos, pero al momento de esta ser realizada en china, no la van a leer.
+
+También existe un espaciado mínimo entre pistas, para que no se toquen las unas con las otras.
+(En cualquier caso, más de 0.3mm es lo mejor).
+
+**Para hacer las pistas, las encontramos aquí:**
+![img5](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img5.png)
+
+**Luego se nos despliega esto, y aquí podemos poner las anchuras de nuestras pistas. Ya luego de eso, nos van a aparecer como “pinceles”, con las anchuras que hicimos.**
+![img6](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img6.png)
+
+**Y primero, comenzamos a organizar los componentes en el contorno que creamos:**
+![img7](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img7.png)
+
+**Luego de haber organizado los componentes en la placa, podemos hacer nuestras pistas, en estas dos capas: `F.cu` (front). y `B.cu` (back)**
+![img8](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img8.png)
+
+**Luego le hundimos enrutar pista única (o podemos oprimir la letra x):** 
+![img9](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img9.png)
+
+**Luego, cuando le hundimos nos aparecen todos los lugares donde debería ir conectado ciertas pistas:**
+![img10]()
+
 ## 4.	Encargo para la siguiente clase.

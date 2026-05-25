@@ -39,7 +39,20 @@ Para poder guiarnos en que basarnos Misa nos entregó esquemáticos en base a lo
 
 ## Capítulo 6 y 7 - Hacia una filosofía de la fotografía, Flusser
 
++ La información tiende a desintegrarse progresivamente de acuerdo con el segundo principio de la termodinámica, pero el ser humano se disingue de estoya que adquiere, almacena y transmite información al mismo tiempo que la produce de manera intencional; a ésto se le llama "espíritu", que es lo que produce "cultura" (objetos informados).
++ El proceso de manipulación de información (comunicación) tiene dos fases: el _diálogo_, que es en donde se produce la información y el _discurso_ que es como se distribuye la información.
+
+#### Métodos de discurso:
+
+1. Situación cultural de "responsabilidad": El emisor está rodeado de receptores que formar un semicírculo.
+2. Situación de "autoridad": El emisor utiliza transmisores o "auxiliares" como en la comunicación militar de un rango a otro.
+3. Situación de "progreso": El emisor distribuye su información en forma de giálogos que la enriquecen con información nueva antes de transmitirla, como un discurso científico.
+4. Situación de "manifestación": El emisor envía su información al espacio vacío, como en la comunicación por radio _(aquí aplica la distribución de fotografías)_.
+
+
 #### Vocabulario con definiciones de la RAE
+
++ 
 
 ---
 

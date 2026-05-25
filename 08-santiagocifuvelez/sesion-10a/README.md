@@ -8,7 +8,7 @@ Hola profe Misa, Aarón y Emi, les mando un abrazo y veamos que tenemos para hoy
 4.	Clase sobre algunos chips osciladores y algunos amplificadores.
 5.	Flusser, cap. 4, 5
 
-Así termino el tablero este día: 
+***Así termino el tablero este día:***
 ![img4](./imagenes/img4.jpg)
 
 ## 1.	Charla sobre la presentación de la próxima exposición; For want or (not) measuring (Para querer o no medir).

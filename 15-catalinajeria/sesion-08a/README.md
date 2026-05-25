@@ -6,18 +6,6 @@
 
 ---
 
-## 🗓️ Datos de la clase
-
-| Ítem | Información |
-|---|---|
-| **Fecha** | 28 de abril de 2026 |
-| **Tema** | Introducción al diseño de circuitos y placas PCB |
-| **Software** | KiCad |
-| **Archivo principal** | `.kicad_pro` |
-| **Objetivo** | Comprender el flujo inicial para crear un esquemático y llevarlo hacia una PCB |
-
----
-
 ## ✨ Resumen de la clase
 
 En esta clase empezamos a trabajar con **KiCad**, un programa utilizado para diseñar circuitos electrónicos y placas PCB. La idea principal fue comprender cómo un circuito puede pasar desde una representación digital y esquemática hacia una placa física, tangible y lista para ser fabricada o soldada.

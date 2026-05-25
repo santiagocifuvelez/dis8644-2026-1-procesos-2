@@ -20,6 +20,7 @@ Ya con estos pasos en cuenta, continuemos con la clase:
 1. Como abrir archivos de trabajo.
 2. Atajos de teclado.
 3. La pcb (nuestra placa real)
+4. Flusser, cap. 1
 
 ## 1. Como abrir archivos de trabajo
 
@@ -128,6 +129,7 @@ Ahora, vamos a abrir unos huequitos para poder integrar nuestra PCB a la superfi
 **Y ya está.**  
 ![img20](./imagenes/img20.png)
 
+## 4. Flusser, cap. 1  
 Para este corte del semestre vamos a leer un libro llamado; “Hacia una filosofía de la fotografía”, y para esta bitácora, leeremos el primer capítulo del libro, el cual se llama:
 
 1.	La imagen.  

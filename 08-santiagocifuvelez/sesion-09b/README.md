@@ -1,8 +1,10 @@
 # sesion-09b  
 15 de mayo del 2026
 
-¡Hola profe Aaron, Misa y Emi!, espero se encuentren muy bien.  
-(Para el fin de semana ya tendré este apartado listo, ya me estoy poniendo al día).
+> Hola profe Aarón, Misa y Emi, espero que se encuentren bien. Antes de comenzar este registro, les quería pedir una disculpa por si me noté desinteresado este día, estaba exhausto por el tema del viaje, y estaba tan cansado, que en el break tuve que dormir si o si, para poder continuar la clase. Además, también quiero dejar registro del acto tan hermoso que tuvo Emi conmigo, de comprarme una Mocha con leche de avena para darme ánimos. I mean…, that was too much for me, y significo un montón (gigantesco) para mi ese día (y el resto de mi vida también). Muchas gracias a todxs por su hospitalidad, amabilidad y por la gran enseñanza que nos dan.
+¡Son un gran equipo!
+
+Ahora sí, veamos que hicimos en esta clase:
 
 **Capítulo 2: La imagen técnica.**  
 Este capítulo es una reflexión sobre la función de la imagen en nuestra vida cotidiana, y la relación que tenemos con esta. Veamos que más dice…

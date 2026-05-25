@@ -24,7 +24,7 @@ Veamos que tenemos para hoy:
 
 > https://www.aviationgroup.es/actualidad/diferencia-electricidad-electronica/
 
-> ## 2.	¿Qué es fenomenología?
+## 2.	¿Qué es fenomenología?
 > “La fenomenología es una rama filosófica que trata de comprender y darle importancia a cómo las personas vivimos el mundo en el que vivimos, tanto en cuanto a sus aspecto más físico como en términos de interacción social y emocionalidad.” (Rubio, 2026) 
 >> *(Este concepto lo nombro el profesor Missa, en complemento de la retroalimentación de la lectura del día…)*
 

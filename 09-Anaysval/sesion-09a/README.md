@@ -154,7 +154,7 @@ Después de eso, KiCad muestra una lista con los posibles errores encontrados.
 
 ---
 
-- encargo-09a
+- Encargo 1
   
 esquemáticos y PCB en KiCad
 
@@ -236,3 +236,25 @@ GND
 Acá quería intentar que todos los componentes se vieran en 3D, no entendí por qué no se ponen todos automáticamente. Intenté colocarlos, pero me salían cosas nada que ver, no sé si eran los correctos y, según yo, no, porque no se veían como los componentes que buscabaAAAAAaaaaaaaaa(,,•᷄‎ࡇ•᷅ ,,)? tampoco investigué mucho más a fondo ¯\_(ツ)_/¯
 
 ![foto](./imagenes/idk.png)  
+
+---
+
+- Encargo 2
+
+#### lectura de libro de Flusser, capítulo 1
+
+leer introducción y capítulo 1 del libro Hacia una filosofía de la fotografía, de Vilém Flusser, disponible en https://monoskop.org/images/8/8d/Flusser_Vilem_Hacia_una_filosofia_de_la_fotografia.pdf
+
+compartir apuntes y reflexiones críticas sobre el texto, prohibido usar inteligencia artificial, no sirve para este ejercicio.
+
+- La imaginación es la capacidad de producir y descifrar la imagen, codificar y decodificar.
+
+- Las imágenes tienen más de un significado si decidimos traspasar más allá del sentido exterior y empezar a registrarla, un proceso marcado por nuestras propias intenciones. El significado de una imagen es la unión de la intención de la imagen misma y de la intención interna del espectador.
+
+- Las imágenes se han interpuesto entre el hombre y el mundo, volviéndose más que presentaciones del mundo. El hombre vive en función de las imágenes que crea sin decodificarlas; la imaginación se ha vuelto alucinación.
+
+- El ser humano conceptualizó las imágenes mediante la escritura, abstrayéndola de sus dimensiones físicas.
+
+- Vilém Flusser no escribe intentando demostrar una verdad absoluta. Desde el inicio deja claro que no busca probar una tesis de manera académica ni llenar el libro de citas o fuentes, sino abrir preguntas y generar reflexión. 
+
+- También me pareció muy interesante cómo habla de la magia,  como una forma de mirar el mundo y la manera en que explica que las imágenes pueden atraparnos y hacernos vivir dentro de ellas.  A veces pareciera que ya no observamos las imágenes críticamente, sino que simplemente habitamos dentro de ellas: redes sociales, fotografías, publicidad, pantallas. Todo termina influyendo en cómo recordamos, deseamos o incluso entendemos la realidad. 

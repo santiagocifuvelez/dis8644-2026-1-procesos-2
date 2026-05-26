@@ -65,11 +65,11 @@ En base a la imagen y videos de youtube como el de más arriba llegue a este esq
 
 <br>
 
-## Texto ##
+## Texto - cap 4 y 5 ##
 
-La verdad leí pero con prisa y sin comprender que leía, por lo que no recuerdo nada más que conceptos claves:
+En estos capítulos se enfoca en como la fotografía se relaciona con las personas, planteando 4 conceptos claves 
 
-- Caja negra
+- Caja negra: Este concepto se nos ha mencionado recurrentemente en clases, cuando nos referimos a algo que no entendemos como funciona, a quien le damos el inpout para obtener una respuesta, tal como ocurre en una camara. Uno presiona el botón (input) ocurre la magía en la caja negra y se optiene una fotografía (output)
 
 - Herramienta
 
@@ -77,4 +77,4 @@ La verdad leí pero con prisa y sin comprender que leía, por lo que no recuerdo
 
 - Máquina
 
-Ya que no estoy teniendo el tiempo de leer y tomar apuntes, voy a leer el fin de semana todo el líbro en conjunto con la toma de apuntes
+La mención de estas ideas me parecen interesantes, ya que me genera genuina duda de como yo entiendo e interpreto los objetos que me rodean. Si tuviera que definir y categorizar los objetos ¿Como lo haría? Esta duda la podre desarrollar en algún momento, posiblemente cambie, todo en base a los conococimientos que vaya adquiriendo

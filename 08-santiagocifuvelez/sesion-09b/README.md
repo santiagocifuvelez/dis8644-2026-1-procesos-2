@@ -6,7 +6,8 @@
 
 Ahora sí, veamos que hicimos en esta clase:
 
-1.	Entrega de Encargo y dudas que surgieron de allí.  
+1.	Entrega de Encargo y dudas que surgieron de allí.
+2.	Flusser, cap. 2, 3
    
 Comencemos :)
 
@@ -53,7 +54,10 @@ También estoy haciendo este “tejido” por el back de la tarjeta, para poder 
 Y bueno, allí voy jijiji.
 También, creo voy a mover algunos componentes hacia atrás, para tener un poco más de orden.
 
-**Capítulo 2: La imagen técnica.**  
+## 2.	Flusser, cap. 2, 3
+
+#### **Capítulo 2: La imagen técnica.**  
+
 Este capítulo es una reflexión sobre la función de la imagen en nuestra vida cotidiana, y la relación que tenemos con esta. Veamos que más dice…
 
 La imagen técnica, es la imagen producida por un aparato (cámara, teléfono, etc…, aparato, y aquí el autor hace 2 aclaraciones; Existen 2 tipos de imagen; la técnica y la tradicional. Las imágenes tradicionales, se les puede llamar pre-históricas, y las imágenes técnicas, pos-históricas. A lo anteriormente mencionado, esto se complementa con el capítulo anterior, donde el autor menciona que es difícil descifrar las imágenes técnicas, ya que aparentemente estas no necesitan ser descifradas, (pues son muy literales). “Su significado parece ser automático”. 

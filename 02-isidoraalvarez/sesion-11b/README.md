@@ -26,6 +26,7 @@ Nuestro 1er intento
 Revisar doc de los estandares
 
 estandar: imputs/outputs-audiojack2_switcht 
+
 Fuentes: barrel_jack_switch
 
 

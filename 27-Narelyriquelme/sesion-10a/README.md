@@ -66,4 +66,18 @@ despues en la clase missa hablo de los chips y de cuales podrian funcionar para 
 **VCO (Oscilador Controlado por Voltaje):**
 
 * Significa *Voltage Controlled Oscillator*. Es un oscilador que no depende de que cambies una resistencia física, sino de los cambios de voltaje que le inyectas para generar ondas y notas musicales.
+---
+## Lectura Vilém Flusser
+
+### Cap. 4: El gesto fotográfico
+
+* **El fotógrafo cazador:** El fotógrafo se mueve buscando ángulos, pero no caza objetos, caza **estados de cosas**. 
+* **La trampa del aparato:** El fotógrafo cree que es libre, pero solo puede hacer lo que el "programa" de la cámara le permite. Está limitado por la máquina.
+* **Congelar el tiempo:** El gesto de hacer *click* es un salto que transforma el tiempo continuo en una escena estática.
+
+### Cap. 5: La fotografía
+
+* **No es la realidad:** Las fotos no son ventanas al mundo real, son **imágenes técnicas** (conceptos abstractos hechos por una máquina). 
+* **La magia y el engaño:** Como la foto la hace una máquina, la gente cree que es "la verdad absoluta". Esa es su trampa: oculta que está programada.
+* **Inundación de imágenes:** Vivimos rodeados de fotos fáciles de consumir, lo que nos vuelve flojos para mirar y ciegas ante lo que es real y lo que es solo una superficie.
 

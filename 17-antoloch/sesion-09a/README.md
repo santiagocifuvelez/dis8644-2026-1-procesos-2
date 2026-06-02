@@ -1,5 +1,5 @@
 # sesion-09a
-# sesion-10a
+
 
 **Clase online por el incendio al lado de la FAAD.**  
 La clase estuvo fome; definitivamente me motivo mucho más estando presencial.  

@@ -17,3 +17,33 @@ Menciona que los aparatos son omnisciente y omnipotente en este universo y que l
 Menciona que “vivir” significa “alimentar aparatos y ser alimentados por ellos” y se pregunta ¿Dónde entonces queda el espacio para la libertad humana? Es necesaria la filosofía de la fotografía si se quiere llegar a un estado plenamente consciente; hacerlo es necesario, en ese caso la fotografía sería un modelo de libertad. ¿Cómo a pesar de los aparatos es posible crear un espacio para la libertad?  La filosofía de la fotografía consiste en la posibilidad de la libertad en un mundo dominado por aparatos.
 
 
+## Trabajo en clase proyecto 02:
+
+Hoy definimos las dos propuestas de osciladores y los esquemáticos en kicad. 
+
+**Propuesta 01: (onda cuadrada intervenida por attack y decay)**
+
+-chip 40106
+-chip LM324 
+
+imagen esquemático 1 
+
+![propuesta1](./imagenes/propuesta1.png/)
+
+**Propuesta 02:**
+
+-chip 40106
+-chip 4040 
+-chip 4051
+
+imagen esquemático 2 
+
+![propuesta2](./imagenes/propuesta2.png/)
+
+Luego de hacer los esquemáticos comenzamos a pasarlos a la protoboard para asegurar el funcionamiento
+
+![protoboard](./imagenes/protoboard.png/)
+
+
+
+

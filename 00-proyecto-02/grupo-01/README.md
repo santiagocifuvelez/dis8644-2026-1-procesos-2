@@ -108,6 +108,10 @@ Budumtz
 
 Este módulo, al igual que el anterior, permite que uno pueda interactuar con el sintetizador al que esté conectado el piezo, pero en este caso se necesita contacto directo al componente lo cual permitirá que lo que esté conectado a este se active.
 
+El nombre surge de esos sonidos de batería cortos que suelen acompañar el remate de un chiste, donde un único golpe logra llamar la atención y marcar un momento específico.
+
+De forma parecida, cada impacto sobre el piezo genera una respuesta inmediata en el circuito.
+
 ### Descripción de funcionamiento 2
 
 El circuito se conforma por 4 partes:

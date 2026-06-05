@@ -124,6 +124,7 @@ _____________________________________________________________________
 <br>
 
 ![comunicacion](./imagenes/comunicacion.jpg)
+![comunicacion](./imagenes/comunicacion.png)
 
 *imagen: Schauer, K. (2021)*
 
@@ -133,8 +134,7 @@ _____________________________________________________________________
 
 **¿Qué hace el circuito?**
 
-- El funcionamiento del **CD40106** lo utilizaremos  comparándolo con una conversación entre la Tierra y una nave espacial. <br><br> La resistencia y el condensador son una estación terrestre que espera la respuesta de la nave (energía). La salida está en alto, cuando la Tierra envía una señal de radio al espacio. Mientras la señal "viaja", el condensador se carga poco a poco. Cuando alcanza cierto nivel, el CD40106 cambia su salida, como si la nave hubiera respondido al mensaje.                   <br><br>                                                                                                               Cuando la señal alcanza el umbral superior del Schmitt Trigger, es cuando la nave hubiera recibido el mensaje y respondiera. En ese momento, la salida cambia a bajo, es aqui cuando comienza la segunda parte del viaje: el condensador se descarga para dar la señal de respuesta viajando de vuelta hacia la Tierra.
-Cuando el nivel baja lo suficiente, el CD40106 vuelve a cambiar su salida y se envía un nuevo mensaje. Este proceso se repite continuamente, generando una oscilación entre estados altos y bajos que produce una señal de audio, similar a una conversación constante entre la Tierra y una nave espacial.
+- El funcionamiento del **CD40106** lo utilizaremos  comparándolo con una conversación entre la Tierra y una nave espacial. <br><br> La resistencia y el condensador son una estación terrestre que espera la respuesta de la nave (energía). La salida está en alto, cuando la Tierra envía una señal de radio al espacio. Mientras la señal "viaja", el condensador se carga poco a poco. Cuando alcanza cierto nivel, el CD40106 cambia su salida, como si la nave hubiera respondido al mensaje.                   <br><br>                                                                                                               Cuando la señal alcanza el umbral superior del Schmitt Trigger, es cuando la nave hubiera recibido el mensaje y respondiera. En ese momento, la salida cambia a bajo, es aquí cuando comienza la segunda parte del viaje: el condensador se descarga para dar la señal de respuesta viajando de vuelta hacia la Tierra. Cuando el nivel baja lo suficiente, el CD40106 vuelve a cambiar su salida y se envía un nuevo mensaje. Este proceso se repite continuamente, generando una oscilación entre estados altos y bajos que produce una señal de audio, similar a una conversación constante entre la Tierra y una nave espacial.
 
 ### Descripción de funcionamiento
 

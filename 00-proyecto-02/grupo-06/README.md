@@ -20,7 +20,7 @@ Lub-dub.
 
 ### Descripción general/conceptual 1
 
-Lub-dub hace exactamente lo que hace un corazón: **bombea**. Pero en vez de bombear sangre, bombea pulsos eléctricos. En vez de mantener vivo a un organismo, **mantiene vivo el ritmo**. Lub-dub late. A Veces  *Tac. Tac. Tac*. Otras, *Dumb. Dumb. Dumb*. Con la misma indiferencia biológica con que tu corazón te despertó esta mañana, Lub-dub bombea energía guiada por un compás. Es un percutor. Es un metrónomo pero con actitud.
+Lub-dub hace exactamente lo que hace un corazón: **bombea**. Pero en vez de bombear sangre, bombea pulsos eléctricos. En vez de mantener vivo a un organismo, **mantiene vivo el ritmo**. Lub-dub late. A veces  *Tac. Tac. Tac*. Otras, *Dumb. Dumb. Dumb*. Con la misma indiferencia biológica con que tu corazón te despertó esta mañana, Lub-dub bombea energía guiada por un compás. Es un percutor. Es un metrónomo pero con actitud.
 
 #### ¿Qué hace Lub-dub por ti?
 
@@ -32,7 +32,7 @@ Lub-dub hace exactamente lo que hace un corazón: **bombea**. Pero en vez de bom
 
 Lub-dub recibe 12V por un jack de alimentación, regulados internamente a 5V con un L7805. Su output es una señal de audio por un jack estéreo. Tiene cuatro potenciómetros que en conjunto controlan el tempo y el carácter del golpe.
 
-El corazón del circuito es un oscilador construido con inversores Schmitt-trigger de los chips 40106 y 4069. Un condensador se carga y descarga continuamente a través de resistencias variables: los potenciómetros cambian esas resistencias, lo que cambia qué tan rápido se carga el condensador y por lo tanto qué tan rápido late y cómo suena ese latido. La ventaja del Schmitt-trigger es que conmuta en voltajes distintos al subir y al bajar, lo que produce ese golpe brusco y limpio en vez de una transición suave. Antes de llegar al output, la señal pasa por una red de condensadores y resistencias que recorta el pulso y lo convierte en un impulso corto y acentuado. Ese recorte es lo que transforma la oscilación en un *tac* o un *dumb* dependiendo de cómo estén ajustados los potenciómetros.
+El corazón del circuito es un oscilador construido con inversores Schmitt-trigger de los chips 40106 y 4069UBE. Un condensador se carga y descarga continuamente a través de resistencias variables: los potenciómetros cambian esas resistencias, lo que cambia qué tan rápido se carga el condensador y por lo tanto qué tan rápido late y cómo suena ese latido. La ventaja del Schmitt-trigger es que conmuta en voltajes distintos al subir y al bajar, lo que produce ese golpe brusco y limpio en vez de una transición suave. Antes de llegar al output, la señal pasa por una red de condensadores y resistencias que recorta el pulso y lo convierte en un impulso corto y acentuado. Ese recorte es lo que transforma la oscilación en un *tac* o un *dumb* dependiendo de cómo estén ajustados los potenciómetros.
 
 ### Falstad 1
 
@@ -75,7 +75,7 @@ Barry Benson no es una abeja. **Es peor que una abeja**, es una abeja con comple
 #### ¿Qué hace Barry Benson por ti?
 
 - Reproduce con fidelidad perturbadora el sonido de un insecto atrapado entre tu oreja y la almohada.
-- Permite ajustar el zumbido con cuatro perillas para encontrar el tono exacto que más molesta a tu compañero de pieza.
+- Permite ajustar el zumbido con cuatro potenciómetros para encontrar el tono exacto que más molesta a tu compañero de pieza.
 - Según investigaciones del prestigioso Instituto de Zumbidología Aplicada de Concepción, la exposición prenatal al sonido de Barry Benson produce niños con oído absoluto y una relación complicada con los insectos.
 - Suena como *bzzzZZZzzzbzzZZZZzbzz*. Como si alguien hubiera atrapado una abeja en un sintetizador analógico y ninguno de los dos estuviera contento con la situación.
   
@@ -83,7 +83,7 @@ Barry Benson no es una abeja. **Es peor que una abeja**, es una abeja con comple
 
 Barry Benson recibe 12V por un jack de alimentación, que el circuito reduce internamente a 5V usando un regulador L7805. Su único output es una señal de audio por un jack estéreo.
 
-Cuando alguien usa Barry Benson, interactúa con cuatro potenciómetros. Cada una controla la frecuencia de un oscilador independiente, en otras palabras, es básicamente qué tan rápido vibra cada "ala" de la abeja. El chip que hace posible todo esto es el 40106, que contiene seis inversores Schmitt-trigger, componentes que deciden cuándo una señal es alta o baja, produciendo oscilaciones estables. Las cuatro señales resultantes se mezclan a través de compuertas XOR del chip 4070. Una XOR produce señal solo cuando sus entradas son distintas, así que al combinar frecuencias similares pero no idénticas, la salida fluctúa a una velocidad igual a la diferencia entre ambas. Ese fenómeno es lo que hace que el volumen suba y baje de forma orgánica y le da a Barry ese carácter de insecto vivo que ningún preset de sintetizador ha logrado replicar con tanta dignidad.
+Cuando alguien usa Barry Benson, interactúa con cuatro potenciómetros. Cada uno controla la frecuencia de un oscilador independiente, en otras palabras, es básicamente qué tan rápido vibra cada "ala" de la abeja. El chip que hace posible todo esto es el 40106, que contiene seis inversores Schmitt-trigger, componentes que deciden cuándo una señal es alta o baja, produciendo oscilaciones estables. Las cuatro señales resultantes se mezclan a través de compuertas XOR del chip 4070. Una XOR produce señal solo cuando sus entradas son distintas, así que al combinar frecuencias similares pero no idénticas, la salida fluctúa a una velocidad igual a la diferencia entre ambas. Ese fenómeno es lo que hace que el volumen suba y baje de forma orgánica y le da a Barry ese carácter de insecto vivo que ningún preset de sintetizador ha logrado replicar con tanta dignidad.
 
 ### Falstad 2
 

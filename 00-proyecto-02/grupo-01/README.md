@@ -116,7 +116,7 @@ De forma parecida, cada impacto sobre el piezo genera una respuesta inmediata en
 
 ### Descripción de funcionamiento 2
 
-El circuito se conforma por 4 partes:
+El circuito se conforma por 5 partes:
 
 + Piezoeléctrico
 + High pass filter

@@ -37,8 +37,8 @@ Le vino a dar un concierto"
 
 Nuestro circuito es un oscilador, el cual tiene la función de generar la forma de la onda que luego se convertirá en sonido. El Chirihue Mecanizado lleva su nombre gracias al parecido con el canto de este pájaro, quien tiene una melodía particular, donde repite sonidos extremadamente cortos y agudos de manera continua, y va oscilando/variando, de cierta forma, en la tonalidad y en el ritmo. Esta propuesta lleva su apellido “Mecanizado” ya que nuestros sonidos se encuentran limitados por la condición de la máquina, y aunque quisiéramos, no podríamos imitar su canto original que está creado por la naturaleza. Por lo tanto, esta es nuestra reinterpretación de su voz.
 
-![chirigue](./imagenes/chirigue.jpg)
-![ondas](./imagenesondas.png)
+![chirihue](./imagenes/chirigue.jpg)
+![ondas](./imagenes/ondas.png)
 ### Descripción general/conceptual 1
 
 Nuestro circuito está compuesto por los chips 40106 y LM324, los cuales nos permiten crear un oscilador simple y experimental. Este tipo de circuito nos posibilita generar una onda cuadrada, pero al producir variaciones de attack y decay (ataque y decaimiento), se puede acercar al sonido de una onda de sierra o triangular.
@@ -101,6 +101,8 @@ sólo las ondas de radio se agitaban
 tratando de emocionar a otros hombres.
 
 —Calidoscopio - Ray Bradbury
+
+![comunicacion](./imagenes/comunicacion.jpg)
 
 *imagen: Schauer, K. (2021)*
 

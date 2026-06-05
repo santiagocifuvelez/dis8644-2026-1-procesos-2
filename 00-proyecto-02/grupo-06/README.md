@@ -145,6 +145,8 @@ Usamos la base anteriormente vista en el proyecto 01 con el Chip 386; circuito t
 
 ![esquema amplificador](./imagenes/esquema-amplificador.png)
 
+![amplificador uso en ideas 1 y 2](./imagenes/amplificador-ejemplo.jpg) 
+
 ## Colaboración con otros grupos
 
 ### ¿Cómo ayudamos a otros grupos?

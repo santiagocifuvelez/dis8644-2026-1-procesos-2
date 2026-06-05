@@ -17,4 +17,4 @@ Luego de MILES de intentos con hybrida, entre armar y rearmar, agregar amp, cone
 - luego de varios intentos llegamos a la conclusión de agregar un amp y variar los capacitores, logrando que por fin funcione el circuito y presente audio
 
   
-![pre amp tl072](./imagenes/pre-amp-circuit.png)
+![circuito-02](./imagenes/circuito-02.jpg)

@@ -31,6 +31,8 @@ en este repo creamos 3 carpetas:
 
 ### g-01-pie-02-rev-a
 
+- no fue enviado a producción porque no tenemos garantía de que funcionara según lo visto en protoboard.
+
 ## grupo-02: secuenciadores
 
 - isidoraalvarez
@@ -88,6 +90,20 @@ en pcb:
 - sebastianguevaralarotta
 - CatalinaJeria
 - Luisaatoro9
+
+### g-05-fil-01-rev-a
+
+- error grave en la nomenclatura de los proyectos: el 01 en su README dicen que es el activo, pero en Kicad es el pasivo
+- cambiamos C1 por condensador no polarizado
+- conectamos patita del medio de potenciómetro
+- confusión en los tamaños de los condensadores C4 y C5
+- los tamaños de las pistas usados no fueron los indicados en clases ni en estandarización.
+- faltó el paso de agregar tierra a la placa, no está hecho.
+
+### g-05-fil-02-rev-a
+
+- error grave en la nomenclatura de los proyectos: el 01 en su README dicen que es el activo, pero en Kicad es el pasivo
+- no fue enviado a producción, ya que no funcionó en protoboard
 
 ## grupo-06: percusiones
 

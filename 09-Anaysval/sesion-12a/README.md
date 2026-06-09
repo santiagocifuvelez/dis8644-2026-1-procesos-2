@@ -10,7 +10,7 @@ Aun así, seguían los problemas, el LED se encendía, pero poco a poco se iba a
 
 (gif compartido por Bruno)
 
-Después armamos un amplificador para probar todo el sistema. El parlante sonaba constantemente y solo cambiaba un poco al golpear el piezo. Nos dijeron que al final habíamos hecho un oscilador Σ(°ロ°) y en verdad estabamos todos perdidos con este circuito, no supimos qué pasaba ya que seguimos el esquemático dado y aún era un flop, por lo que nos enfocamos en avanzar en los PCB y en los esquemáticos finales del proyecto en lo poco que quedaba de clase.
+Después armamos un amplificador para probar todo el sistema. El parlante sonaba constantemente y solo cambiaba un poco al golpear el piezo. Nos dijeron que al final habíamos hecho un oscilador Σ(°ロ°) y en verdad estabamos todos perdidos con este circuito, no supimos qué pasaba ya que seguimos el esquemático dado y aún era un flop, por lo que nos enfocamos en avanzar en las PCB y en los esquemáticos finales del proyecto en lo poco que quedaba de clase.
 
 En el piezo 01, se trabajó en mejorar su sensibilidad utilizando un circuito amplificador, con el objetivo de que pudiera activarse sin necesidad de tocarlo directamente. Para esto, se siguió el esquema del amp de PimPom.
 

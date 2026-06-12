@@ -4,16 +4,25 @@
 
 ## Apuntes de clase
 
-Profe misa muestra discos nuevos que ha estado escuchando de instagram o blogs
+Profe Misa muestra discos nuevos que ha estado escuchando en Instagram o en blogs.
 
-y a final de mes los pasa a tablas de marck down
+Y, a final de mes, los pasa a tablas de Markdown.
 
-Si hablaremos de partitura hablamos de canto gregoriano
+Si hablamos de partituras, hablamos del canto gregoriano.
 
-que me indica?
+¿Qué me indica?
 
-hay unas letras que se leen encierta sucesión
+Hay unas letras que se leen en cierta sucesión.
 
 ![ejemplo](./imagenes/cantogregoriano.jpg)
 
-Luego los corales
+Luego nos mostró los corales
+
+y vimos varias partituras
+
+### Semiótica
+
+La semiótica (o semiología) es la disciplina que estudia los signos, los símbolos y los sistemas de comunicación humana. Analiza cómo construimos, transmitimos e interpretamos significados más allá de las palabras, abarcando imágenes, gestos, colores, sonidos y comportamientos.
+
+---
+

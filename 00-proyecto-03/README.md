@@ -4,7 +4,7 @@
 
 - lista de materiales (bom), incluyendo cantidades, placa, presupuesto, stock
 - ensamblaje de 3 PCBs de las que hayan participado en su diseño
-- propuesta de 2 partituras para performance de 5 minutos con el sintetizador diseño
+- propuesta de 2 partituras para performance de 5 minutos con el sintetizador diseñado
 
 3 puntos individuales:
 

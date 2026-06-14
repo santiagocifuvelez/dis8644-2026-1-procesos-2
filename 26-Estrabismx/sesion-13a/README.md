@@ -36,6 +36,78 @@ Este libro se enfoca en el mismo principio anterior, me dejo como tarea buscarlo
 
 ### De KiCad a JLCPCB
 
+Lo primero es que esta manera funciona con JLCPCB. Desconozco si servirá con otro proveedor
+
+
+1. El formato de archivo _gerber_ (.grb) es el estándar para la fabricación de PCB. Este se categoriza com un tipo de archivo ASCII vectorial.
+
+Para poder fabricar y generar los archivos correspondientes, necesitamos mínimo 7 capas
+
+| N° | Capa         | Descripción       |
+| -- | ------------ | ----------------- |
+| 1  | Cu F         | Cobre frontal     |
+| 2  | Cu B         | Cobre trasero     |
+| 3  | Edge Cut     | Corte contorno    |
+| 4  | Mask F       | Negativo frontal  |
+| 5  | Mask B       | Negativo trasero  |
+| 6  | Silkscreen F | _Dibujos_ frontal |
+| 7  | Silkscreen B | _Dibujos_ trasero |
+
+
+2. Para poder exportar estos archivos, abriremos nuestro proyecto y luego el _.kicad_pcb_
+
+3. Ahora en la pestaña de archivo, seleccionaremos _Trazar_ (_plot_, si lo tenemos en ingles)
+
+![KICAD](./imagenes/sc54.png)
+
+
+
+4. Debemos tener las capas seleccionados, según lo que necesitemos. En nuestro caso se realiza con las 7 ya mencionadas
+
+![KICAD](./imagenes/sc55.png)
+
+
+
+5. Posteriormente debemos definir la ruta de guardado de los archivos, para ello seleccionaremos el icono de carpeta y definimos donde queremos guardarlos
+
+![KICAD](./imagenes/sc56.png)
+
+
+
+6. Una vez ya definido la ubicación, procedemos a _**Trazar**_ y luego a _**Generar archivos de taladro**_
+
+![KICAD](./imagenes/sc60.png)
+
+
+7. Con nuestro archivos generados podemos ahora comprimirlos en **_.ZIP_**
+
+![KICAD](./imagenes/sc57.png)
+
+![KICAD](./imagenes/sc58.png)
+
+![KICAD](./imagenes/sc59.png)
+
+
+
+8. Ahora ingresamos  [JLCPCB](https://jlcpcb.com/) y seleccionamos **_Get Instant Quote_**
+
+![JLCPCB](./imagenes/sc61.png)
+
+
+
+9. Finalmente cargarmos nuestro _.zip_
+
+![KICAD](./imagenes/sc62.png)
+
+
+10. Podemos configurar aspectos como el color de las pcb, espesores y acabados en el apartado de **_PCB Specifications_**
+
+![KICAD](./imagenes/sc63.png)
+
+
+11. 
+
+
 Gerber ➣ formato pcb
 
 ➣ 7 capas mínimo

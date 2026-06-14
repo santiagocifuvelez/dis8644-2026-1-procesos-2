@@ -1,2 +1,3 @@
 # sesion-12b
-solemne 02
+
+borré esto porque en taller no hay solemnes

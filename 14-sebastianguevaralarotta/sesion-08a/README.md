@@ -1,6 +1,8 @@
 
 # sesion-08a
 
+introducción a esquemáticos en kicad
+
 # Resumen de Controles Básicos — KiCad
 
 ## Controles Generales
@@ -42,6 +44,6 @@ El menú de componentes permite:
 
 El día de hoy exploramos un poco de los controles que se usan en KiCad, además de tener un acercamiento al proyecto de la solemne 2.  
 
-Me cuesta entender el video, pero viendo información en internet complemento bastante bien el aprendizaje y logro entender mejor el funcionamiento del programa. Recomiendo ir mas lento ya que no todos estamos familiarizados con el mundo digital. 
+Me cuesta esta primera entrada con el kicad, pero viendo información en internet complemento bastante bien el aprendizaje y logro entender mejor el funcionamiento del programa. 
 
 nota: jamas asuman nada, jamas confiar en un auto guardado. -misa.

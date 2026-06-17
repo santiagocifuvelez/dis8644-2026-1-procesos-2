@@ -26,7 +26,7 @@ Un día largo, buscando ideas y cosas que se pudieran relacionar a nuestro proye
 
 > estos dos capítulos los interpreté en base a lo que está siendo la vida para mí este último tiempo y en lo que lleva del año.
 
-la pieza que más me marcó fue SHI (de la cuna a la tumba del Sr. So). en un solo párrafo Ono cuenta una vida entera: un hombre nace, se casa alrededor de los treinta, envejece frente a la cámara, y muere de repente, de diarre, no hay drama, no hay despedida. solo una vida que ocurre y termina, descrita con la misma frialdad con la que en otras partes del libro se incita "volar" o "pasarse una semana riendo."
+la pieza que más me marcó fue SHI (de la cuna a la tumba del Sr. So). en un solo párrafo Ono cuenta una vida entera: un hombre nace, se casa alrededor de los treinta, envejece frente a la cámara, y muere de repente, de diarrea, no hay drama, no hay despedida. solo una vida que ocurre y termina, descrita con la misma frialdad con la que en otras partes del libro se incita "volar" o "pasarse una semana riendo."
 
 lo primero que sentí fue la velocidad, pasaron sesenta años en un párrafo y sin embargo no lo leí con angustia, sino con algo parecido a la nostalgia, que es una sensación que me resulta familiar, porque el año ha pasado así, rápido, denso, lleno de cosas que ya son recuerdo antes de terminar de vivirlas.
 

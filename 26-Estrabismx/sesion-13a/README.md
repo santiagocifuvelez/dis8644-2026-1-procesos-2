@@ -161,3 +161,8 @@ Soy una persona apasionada por la impresión 3D y aún así siento que no es la 
 
 Mi primera impresión del libro fue de sorpresa, no me esperaba tener que leer algo asi para taller y esto es en parte por lo conceptual del libro. 
 
+Lo que si pude identficar en el primer capitulo fue una tendencia a acciones que se repiten en ciclos. Con esto me refiero a que se pueden realizar múltiples veces de manera indefinida, tal como un secuenciador 😛.
+
+Algo que no me habia percatado y que luego de hablar con otras personas del libro fue darme cuenta que cada _poema_ son instrucciones que generan un resultado artistico, que a mi parecer son performance. Luego de darle más vueltas logré entender el porque de esta lectura, al solicitarnos hacer _partituras_, este libro nos indica una manera fuera de la norma de como se puede escirbir _sonido_
+
+Otro punto importante, es que al leer y analizar este libro, me doy cuenta que mi visión y manera de entender las cosas es muy rígida, me cuesta salir de mi caja de pensamiento. Muchas veces pienso de maneras concretas, se que ningún extremo es bueno, por lo mismo espero que este ejercicio me sirva para pensar de manera más conceptual 

@@ -91,7 +91,7 @@ Integrantes:
 ### Propuesta 3 
 
 ![partitura 3 portada](./imagenes/partituraexterior.jpg)
-![partitura 3 ](./imagenes/)
+![partitura 3 ](./imagenes/partitura-interior.jpg)
 
 
 

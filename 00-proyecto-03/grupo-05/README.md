@@ -88,6 +88,11 @@ Integrantes:
 ![partitura 2 portada](./imagenes/partituraportada2.png)
 ![partitura 2](./imagenes/propuestapartitura2.png)
 
+### Propuesta 3 
+
+![partitura 3 portada](./imagenes/partituraexterior.jpg)
+![partitura 3 ](./imagenes/)
+
 
 
 

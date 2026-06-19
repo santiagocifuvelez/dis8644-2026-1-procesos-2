@@ -21,6 +21,8 @@ Esta semana estuvo llena de dificultades por temas de salud de lxs miembros del 
 Nos decidimos a poblar todas las PCB, esto se debe a que queremos generer un sistema con estas placas, queremos experimentar con la mayoria de sus combinaciones y por lo mismo la carcasa tambien responde a esto.
 
 El punto más relevante de lo que queremos hacer es que esto viva por su propia cuenta, para lograrlo remplazamos _**todos**_ los potenciometros por LDR, la idea es lograr un sistema que responda al entorno
+
+El como llegamos a esto viene de revisar y darnos cuentas que muchas placas no poseían un _input_ lo que nos mermaba la posibilidad de interconectar modulos
   
 ## BOM (Bill of materiales)
 
@@ -353,10 +355,11 @@ El punto más relevante de lo que queremos hacer es que esto viva por su propia 
 
 <br>
 
-La idea principal de esta carcasa es poder soportar cada tipo de placa, además de la utilización de materiales de acero y acrilico. En la cual crecerán semillas de chía
+La idea principal de esta carcasa es poder soportar cada tipo de placa, además de la utilización de materiales de acero y acrilico. En la cual crecerán semillas de chía.
 
-Esto por el mismo motivo del como se articula el secuenciador, es decir, la naturaleza creciendo sobre la rigidez humana
+Esto por el mismo motivo del como se articula el secuenciador, es decir, la naturaleza creciendo sobre la rigidez humana.
 
+![referente](./imagenes/referente-planta-carcasa.jpg) 
 
 ## Placas
 

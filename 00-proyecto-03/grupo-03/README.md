@@ -90,6 +90,7 @@ Elegimos las formas curvas y continuas porque se parecen a cómo funciona nuestr
 
 También, nos inspiramos en algunos referentes de partituras gráficas que vimos anteriormente, pero le dimos vida a nuestra pieza gráfica con la ayuda de nuestra interpretación de los sonidos del sintetizador.
 
+<https://youtu.be/w_llKDzQWCs?si=krRRTBGmpJ4E8jTr>
 
 ## Partitura resonancia
 
@@ -99,6 +100,8 @@ También, nos inspiramos en algunos referentes de partituras gráficas que vimos
 Respecto a esta partitura, buscamos referentes de partituras experimentales y, en base a ello, nos gustó la idea de interpretarla no como una notación musical particular, sino llevarla más hacia elementos visuales que representaran lo que escuchábamos. Al prestar atención a cómo sonaba nuestro oscilador, cada uno interpretó mediante alguna forma, símbolo o línea aquello que percibía. Finalmente, coincidimos en esta forma de espiral, que aumenta o disminuye su tamaño según los cambios de intensidad, frecuencia y comportamiento del sonido.
 
 Así, nuestra partitura lleva la experiencia auditiva al plano gráfico. Además, la repetición de los círculos y sus distintos tamaños representan cómo el sonido se expande y genera vibraciones.
+
+<https://youtu.be/CfhnyoPfrF4?si=XYL1ljWvHR_3fHHc>
 
 ## Referentes visuales partituras
 Estos son algunos de los referentes visuales que utilizamos para inspirarnos. Observamos sus formas, composiciones y maneras de representar los sonidos de forma gráfica

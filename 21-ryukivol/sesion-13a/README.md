@@ -3,4 +3,4 @@
 ## contenidos clase 
 
 - garbers 
-- yoko onno cap 1 y 2
+- yoko ono cap 1 y 2

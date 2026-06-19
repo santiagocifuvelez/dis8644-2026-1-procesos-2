@@ -14,6 +14,22 @@ Integrantes:
 
 ## 1. Lista de materiales (bom):
 
+### Alo Houston: Grupo 5
+
+| Referencia | Valor | Cantidad | Costo Unitario (CLP) | Subtotal (CLP) |
+|------------|--------|----------|----------------------|----------------|
+| Capacitor ceramico | 103 | 2 | $150 | $300 |
+| Capacitor ceramico | 104 | 1 | $150 | $150 |
+| Capacitor ceramico | 102 | 1 | $150 | $150 |
+| Capacitor polarizado | 4.7 µF / 16 V | 2 | $140 | $280 |
+| Resistencias | 10 kΩ | 2 | $90 | $180 |
+| Resistencias | 1 kΩ | 1 | $100 | $100 |
+| Potenciometros | 100 kΩ | 2 | $490 | $980 |
+| **Total** | | | | **$2.140** |
+
+
+
+
 ### Chirigüe mecanizado: Grupo 4
 
 | Componente | Cantidad | valor unitario | link/Comprar |

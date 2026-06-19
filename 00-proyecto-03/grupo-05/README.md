@@ -74,8 +74,16 @@ Integrantes:
 
 ### Proceso tanto en clases y fuera de clases
 
+![Proceso clase](./imagenes/procesoclase1.jpg)
+![placarelo](./imagenes/placarelo.jpg)
+![soldando](./imagenes/procesoclase.gif)
+![placafiltro](./imagenes/placafiltro.jpg)
+
 
 ## 3. Propuestas de partituras
+
+![partitura portada](./imagenes/partitura1.png)
+![partitura pasos](./imagenes/partitura2.jpg)
 
 
 

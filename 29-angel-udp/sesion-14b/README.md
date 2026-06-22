@@ -2,7 +2,7 @@
 
 23-06-2026
 
-## Propuesta despues de corrección
+## Propuestas después de la corrección
 
 Hay que tener en cuenta que queremos hacer "Sonido con el sintetizador", no enfocarnos plenamente en la planta como tal, y que la mayoría de los proyectos con circuitos electrónicos son para alimentar o regar las plantas.
 

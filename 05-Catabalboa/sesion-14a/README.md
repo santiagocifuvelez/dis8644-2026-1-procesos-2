@@ -5,9 +5,14 @@ Clase Martes 16 de junio
 
 hoy comenzamos con la soldadura de la primera placa, que seria la que Misa y Aarón nos fabricaron con el chip 555, por este mismo motivo no tengo mucho que escribir y procedo a poner las imagenes y un gif de este dia para mostrar el proceso de mi grupo soldando :).
 
+![foto1](./imagenes/procesoclase1.jpg)
+![foto2](./imagenes/placarelo.jpg)
+![gif1](./imagenes/procesoclase.gif)
+![foto3](./imagenes/placafiltro.jpg)
+![fotitosanti](./imagenes/fotito.jpg)
+![fotitosanti](./imagenes/fotito2.jpg)
 
-
-
+> las últimas 2 fotos nos las saco Santi, muchas gracias Santi :D 
 
 ## Capitulos de yoko ono 
 

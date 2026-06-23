@@ -9,6 +9,10 @@ Hola profe Misa, Aarón y Emi. Espero que la estén pasando bien en el momento q
 
 ---
 
+## 1.	Hablamos sobre las partituras  
+
+---
+
 ## 2.	Ajustes, avances y puntos clave para la entrega del proyecto 3 (partituras).  
 
 Avance del primer BOM
@@ -22,3 +26,7 @@ Avance del primer BOM
 | Diodo 1N4148 | 4 | - |  | 
 | Diodo 1N4007 | 1 | - |  | | Potenciómetro 100 kΩ | 4 | $495 CLP | https://altronics.cl/potenciometro-lineal-100k-b100k | 
 | Resistencia 1 kΩ | 6 | $100 CLP | https://www.mechatronicstore.cl/resistencia/ | | LED | 2 | $300 CLP | https://www.mechatronicstore.cl/led-intermitente-5mm/ | 
+
+---
+
+## 3.	Ono, cap. 3, 4

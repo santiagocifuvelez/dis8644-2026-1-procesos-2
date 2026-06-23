@@ -54,3 +54,25 @@ Avance del primer BOM
 
 Lo que más me llamo la atención de este capítulo, es la capacidad de la autora de contar como de forma “humorística” o como “fuera de un contexto” al que estamos acostumbrados a escuchar o ver ciertas cosas, ciertos eventos que creo que todxs sin excepción hemos ya hecho o al menos pensado; Por ejemplo, este texto, lo sentí muy familiar: 
 
+![1](./imagenes/pieza-de-conversacion.png)
+
+Porque la primera vez que me fracture, actúe como “Una pieza de conversación”. 
+También me encanta que haga palabras tales como; pene, púbico, soñar…
+
+Agregando a lo anterior, me gusta que, en este capítulo, se nombra mucho la presencia de la otra persona, por ejemplo, esto me pareció muy romántico: 
+
+![2](./imagenes/pieza-de-caja.png)
+
+### Capítulo 4 — Poesía
+
+Este capitulo en particular, se llama poesía, pero yo creo que todo este libro ha sido poesía. No hay pena, es muy muy humano, y esto se demuestra en la manera en la que este comienza, y en la que termina, pues inicia la autora haciendo su trabajo de escribir como estos textos cortos y controversiales, y finaliza con su lista de compras, exponiendo así que las personas que escriben libros o que la persona que escribió ese libro, es una persona con pelos púbicos, con una vida humana y necesidades que todxs tenemos en común, como lo es, salir a comprar el mercado. 
+
+![3](./imagenes/poema-tactil.png)
+
+Nunca paremos de tocarnos unxs con otrxs.
+
+![4](./imagenes/pieza-de-armario.png)
+
+También, la añoranza de lo ya vivido, como la ropa de closet que repentinamente recordamos que tenemos, y vamos a buscarla con mucha añoranza y felicidad. (Yo creo que por eso se llama así el titulo de este texto). 
+
+fin. c:
